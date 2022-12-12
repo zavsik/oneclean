@@ -4,7 +4,9 @@
   text-align: center;
 }
 
-
+a {
+  color: #282828;
+}
 a:visited {
   color: #282828;
 }
