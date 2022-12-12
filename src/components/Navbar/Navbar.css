@@ -1,0 +1,18 @@
+.navbar{
+    
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+
+}

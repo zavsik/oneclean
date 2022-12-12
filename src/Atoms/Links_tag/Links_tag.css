@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #C5A70F;
+    transition: .3s;
+}
+.link_block{
+    margin: 0 10px 0 10px;
+}

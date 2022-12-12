@@ -1,0 +1,32 @@
+.size{
+    margin-top: 50px;
+    height: 50px;
+    width: 150px;
+    border: none;
+    background-color: #C5A70F;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: #A38B0E;
+    transition: .3s;
+    cursor: pointer;
+}
+.button_styled{
+    display: flex;
+    justify-content: left;
+}
+.decore{
+    position: relative;
+    top: -15px;
+    left: 130px;
+    height: 4px;
+    width: 150px;
+    background-color: #C5A70F;
+}
+.size:hover .decore{
+    background-color: #A38B0E;
+    transition: .3s;
+}
